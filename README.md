@@ -8,12 +8,12 @@ Projeto de estudo prático sobre de testes de integração. Como exemplo, tem-se
 
 ## O que você vai encontrar nesse projeto
 
-React (Hooks)
-PropTypes
-Forkim
-Yup
-Material UI
-TDD (Test Driven Development)
-BDD (Behavior Driven Development)
-Jest
-Testing Library (com user-event)
+React (Hooks).
+PropTypes.
+Forkim.
+Yup.
+Material UI.
+TDD (Test Driven Development).
+BDD (Behavior Driven Development).
+Jest.
+Testing Library (com user-event).
