@@ -10,7 +10,7 @@ Projeto de estudo prático sobre de testes de integração. Como exemplo, tem-se
 
 * React (Hooks).
 * PropTypes.
-* Forkim.
+* Formik.
 * Yup.
 * Material UI.
 * TDD (Test Driven Development).
